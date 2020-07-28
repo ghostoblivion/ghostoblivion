@@ -18,7 +18,7 @@ I like doing things that people don't consider normal, or possible with limited 
 This means that I do things such as hosting Discord Bots on Chromebooks and making fully functional IDEs for Chromebooks.
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ghostoblivion&count_private=true&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghostoblivion&count_private=true&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostoblivion)
 
 
 
