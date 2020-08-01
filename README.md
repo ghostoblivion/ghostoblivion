@@ -12,11 +12,6 @@ My main language atm is Javascript, although I'm learning Python, Go, Java & Rus
 
 If you want to contact me, my Discord is Ghostoblivion#7789 and I can always be found in the [Ghost Development](https://discord.gg/7Umrdsx) server.
 
-## Fun facts
-
-I like doing things that people don't consider normal, or possible with limited resources.
-This means that I do things such as hosting Discord Bots on Chromebooks and making fully functional IDEs for Chromebooks.
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ghostoblivion&count_private=true&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostoblivion&theme=dracula)
 
