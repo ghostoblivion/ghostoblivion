@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-# I'm Ghostoblivion, your friendly New Zealand Discord Bot Developer!
+# I'm Ghostoblivion, a dev from New Zealand!
 
 ## Current Projects
 
-I'm currently developing [Ghost Bot](https://discord.gg/7Umrdsx), a powerful Discord Bot.
+- Open Source
+  - Check my github profile
+
+- Closed Source
+  - Nothing public atm
 
 ## Languages
 
-My main language atm is Javascript, although I intend to learn Go, Python & Rust.
+My main language atm is Javascript, although I intend to learn Go & Rust.
 
 If you want to contact me, my Discord is Ghostoblivion#7789 and I can always be found in the [Ghost Development](https://discord.gg/7Umrdsx) server.
 
