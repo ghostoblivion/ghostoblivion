@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ghostoblivion, a dev from New Zealand!
+# I'm Ghostoblivion, a 15yr old dev from good ol' New Zealand!
 
 ## Current Projects
 
@@ -9,12 +9,13 @@
 
 - Closed Source
   - Nothing public atm
+  
+- Coming Soon
+  - Ghostcord - a highly customizable javascript discord library.
 
-## Languages
+## Other
 
-My main language atm is Javascript, although I intend to learn Go & Rust.
-
-If you want to contact me, my Discord is Ghostoblivion#7789 and I can always be found in the [Ghost Development](https://discord.gg/7Umrdsx) server.
+If you want to contact me, my Discord is `Ghostoblivion#7789` and I can always be found in the [Ghost Development](https://discord.gg/7Umrdsx "cool server ikr") server.
 
 
-![Github Stats](https://github-readme-stats-six-jet.vercel.app/api?username=ghostoblivion&count_private=true&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats-six-jet.vercel.app/api/top-langs/?username=ghostoblivion&theme=vue)
+![Github Stats](https://github-readme-stats-six-jet.vercel.app/api?username=ghostoblivion&count_private=true&show_icons=true&theme=vue "yes, they're bad") ![Top Langs](https://github-readme-stats-six-jet.vercel.app/api/top-langs/?username=ghostoblivion&theme=vue "kinda inaccurate")
