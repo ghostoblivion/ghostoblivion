@@ -4,14 +4,7 @@
 
 ## Current Projects
 
-- Open Source
-  - Check my github profile
-
-- Closed Source
-  - Nothing public atm
-  
-- Coming Soon
-  - Ghostcord - a highly customizable javascript discord library.
+Pretty much nothing lol.
 
 ## Other
 
