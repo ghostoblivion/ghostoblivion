@@ -2,9 +2,27 @@
 
 # I'm Ghostoblivion, a 15yr old dev from good ol' New Zealand!
 
-## Current Projects
+## Current Knowledge
 
-Pretty much nothing lol.
+- Proficient
+  - Javascript (Node.js)
+  - CSS (traditional/tailwind)
+
+- Learning
+  - Vue
+
+## Technologies
+
+- Backend
+  - Node.js
+  - Fastify
+  - MongoDB (via mongoose)
+
+- Frontend
+  - Vite
+  - VueJS
+  - TailwindCSS
+  - AlpineJS
 
 ## Other
 
